@@ -1,7 +1,7 @@
 
 # Algo Trading Using Python (Zerodha)
 
-- YouTube Videos
+- YouTube Videos   
 [![Zerodha Algo Trading](https://img.youtube.com/vi/G20BYytYtz4/0.jpg)](https://www.youtube.com/watch?v=G20BYytYtz4&list=PLf6bwte-_HkKSwcASuhhDhiyn0hcHb8vN)
 
 ## Strategies
